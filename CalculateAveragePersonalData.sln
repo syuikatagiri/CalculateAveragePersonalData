@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAveragePersonalData", "CalculateAveragePersonalData.csproj", "{47134A87-4328-4EC7-8C3A-95980F219F92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47134A87-4328-4EC7-8C3A-95980F219F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47134A87-4328-4EC7-8C3A-95980F219F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47134A87-4328-4EC7-8C3A-95980F219F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47134A87-4328-4EC7-8C3A-95980F219F92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED638B00-D79A-40DD-A121-D425F13EE9AC}
+	EndGlobalSection
+EndGlobal

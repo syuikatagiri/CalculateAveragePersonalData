@@ -1,0 +1,12 @@
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.csproj.AssemblyReference.cache
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.csproj.SuggestedBindingRedirects.cache
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.Form1.resources
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.Properties.Resources.resources
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.csproj.GenerateResource.cache
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.csproj.CoreCompileInputs.cache
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\bin\Debug\CalculateAveragePersonalData.exe.config
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\bin\Debug\CalculateAveragePersonalData.exe
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\bin\Debug\CalculateAveragePersonalData.pdb
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.exe
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.pdb
+C:\Users\syui5\Desktop\Cord\CalculateAveragePersonalData\obj\Debug\CalculateAveragePersonalData.UserControl1.resources
